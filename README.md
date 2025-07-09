@@ -6,16 +6,16 @@ This is my Personal Web Portfolio.
 * CSS3
 
 ## FRONT SECTION
-<img src="personal porfolio/front.png">
+![front.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/front.png)
 
 ## ABOUT SECTION
-<img src="personal porfolio/about.png">
+![about.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/about.png)
 
 ## SKILLS SECTION
-<img src="personal porfolio/skills.png">
+![skills.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/skills.png)
 
 ## CONTACTS SECTION
-<img src="personal porfolio/contacts.png">
+![contacts.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/contacts.png)
 
 This project is still under development. Further updates include:
 * Implementing Javascript for Backend
