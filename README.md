@@ -5,18 +5,18 @@ This is my Personal Web Portfolio.
 * HTML5
 * CSS3
 
-## FRONT SECTION
+## 📍 FRONT SECTION
 ![front.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/front.png)
 
-## ABOUT SECTION
+## 📍 ABOUT SECTION
 ![about.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/about.png)
 
-## SKILLS SECTION
+## 📍 SKILLS SECTION
 ![skills.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/skills.png)
 
-## CONTACTS SECTION
+## 📍 CONTACTS SECTION
 ![contacts.png](https://github.com/leiandrei/Personal-Web-Portfolio/blob/52cd00595c3cfb3e5542d7340c60ff8964825d36/personal%20portfolio/contacts.png)
 
-This project is still under development. Further updates include:
+ 📌 This project is still under development. Further updates include:
 * Implementing Javascript for Backend
 * Utilizing different frameworks (React, Tailwind, etc.)
