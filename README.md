@@ -1,4 +1,5 @@
 # PERSONAL WEB PORTFOLIO
+This is my Personal Web Portfolio.
 
 ## TECHNOLOGIES USED:
 * HTML5
